@@ -1,32 +1,20 @@
 [
-    {
-        "name": "Ximena Ebertz",
-        "email": "ebertz.xime@gmail.com",
-		"telegramId": 850210514
-    },
-	{
-        "name": "Gonzalo Javier López",
-        "email": "gonzagonzalopez20@gmail.com",
-		"telegramId": 698039957
-    },
-    {
-        "name": "Javier Martínez-Viademonte",
-        "email": "javiermv@campus.ungs.edu.ar",
-		"telegramId": 698039957
-    },
-	{
-        "name": "Matías Raia",
-        "email": "mhraia@yahoo.com.ar",
-		"telegramId": 698039957
-    },
-    {
-        "name": "Hernán Rondelli",
-        "email": "lucifer.unix.cabj@gmail.com",
-		"telegramId": 70417546
-    },
-    {
-        "name": "Lautaro Tacchini",
-        "email": "ltacchini@campus.ungs.edu.ar",
-		"telegramId": 698039957
-    }
+  {
+    "name": "Ximena Ebertz"
+  },
+  {
+    "name": "Gonzalo Javier López"
+  },
+  {
+    "name": "Javier Martínez-Viademonte"
+  },
+  {
+    "name": "Matías Raia"
+  },
+  {
+    "name": "Hernán Rondelli"
+  },
+  {
+    "name": "Lautaro Tacchini"
+  }
 ]
