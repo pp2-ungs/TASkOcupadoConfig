@@ -139,14 +139,3 @@ To **add a new person**, append an entry to `Person.json` and, if applicable, ad
 To **add a new task**, append an entry to `Task.json`.
 
 To **add a new notifier extension**, drop its compiled JAR into the `Extensions/` directory — the loader will pick it up on the next run without any further configuration.
-
-## Authors
-
-- Ximena Ebertz
-- Gonzalo Javier López
-- Javier Martínez-Viademonte
-- Matías Raia
-- Hernán Rondelli
-- Lautaro Tacchini
-
-*Universidad Nacional de General Sarmiento (UNGS) — PP2*
