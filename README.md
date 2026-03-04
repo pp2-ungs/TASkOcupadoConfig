@@ -2,6 +2,23 @@
 
 Configuration and extensibility module for the **TASkOcupado** system. This repository provides all the runtime configuration files and pre-built extension JARs that the application needs to load people, tasks, and external notifiers dynamically.
 
+© 2024 [Ebertz](https://github.com/xebertz), [López](https://github.com/Gonza-JL), [Rondelli](https://github.com/rondelli)
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Repository Structure](#repository-structure)
+- [Configuration Files](#configuration-files)
+  - [config.properties](#configproperties)
+  - [Person.json](#personjson)
+  - [Task.json](#taskjson)
+  - [Email.json](#emailjson)
+  - [Telegram.json](#telegramjson)
+- [Extensions](#extensions)
+- [How It Works](#how-it-works)
+- [Usage](#usage)
+- [Authors](#authors)
+
 ## Overview
 
 TASkOcupado is a task-scheduling desktop application that assigns tasks to people and notifies them in real time through pluggable notification channels. The system is composed of several modules:
